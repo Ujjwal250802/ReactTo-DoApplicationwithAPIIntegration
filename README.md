@@ -26,4 +26,6 @@ npm run dev
 
 The application will be available at http://localhost:5173
 
-Ujjwal Kaushik
+You can preview application on the link give below 
+https://meek-scone-c4fdf7.netlify.app
+
